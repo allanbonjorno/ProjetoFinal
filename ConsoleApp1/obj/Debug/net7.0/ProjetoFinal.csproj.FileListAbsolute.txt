@@ -1,0 +1,15 @@
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\bin\Debug\net7.0\ProjetoFinal.exe
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\bin\Debug\net7.0\ProjetoFinal.deps.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\bin\Debug\net7.0\ProjetoFinal.runtimeconfig.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\bin\Debug\net7.0\ProjetoFinal.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\bin\Debug\net7.0\ProjetoFinal.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\obj\Debug\net7.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\obj\Debug\net7.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\obj\Debug\net7.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\obj\Debug\net7.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\obj\Debug\net7.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\obj\Debug\net7.0\ProjetoFinal.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\obj\Debug\net7.0\refint\ProjetoFinal.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\obj\Debug\net7.0\ProjetoFinal.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\obj\Debug\net7.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\Projeto Final 18. GENERATION\ConsoleApp1\obj\Debug\net7.0\ref\ProjetoFinal.dll
